@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @JonahderTyp
-- 👀 I’m interested in arduino stuff and in wireless and wired communication
-- 📫 Reach me per mail : jonah.wille10@gmail.com
-- 📫 or join my Discord server: https://discord.gg/MSKX4sDzsv
